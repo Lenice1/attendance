@@ -99,7 +99,7 @@
 
         public function getSpecialties(){
             try{
-                $sql = "SELECT * FROM `specialties`";
+                $sql = "SELECT * FROM 'specialties'";
                 $result = $this->db->query($sql);
                 return $result;
             }catch (PDOException $e) {
