@@ -31,10 +31,10 @@
         <div class="form-group">
             <label for="specialty" >Area of Expertise</label>
             <select class="form-control" id="specialty" name="specialty">
-                <option>Database Admin</option>
-                <option>Software Developer</option>
-                <option>Web Administrator</option>
-                <option>Other</option>
+                <option value="1">Database Admin</option>
+                <option value="3">Software Developer</option>
+                <option value="5">Web Administrator</option>
+                <option value="7">Other</option>
             </select>
         </div>
         <div class="form-group">
