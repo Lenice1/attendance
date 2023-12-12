@@ -25,6 +25,4 @@
         include 'includes/errormessage.php';
     }
 
-    
-
 ?>
