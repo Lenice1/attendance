@@ -12,7 +12,7 @@
 
     <table class="table">
         <tr>
-            <th>#</th>
+            <th>ID #</th>
             <th>First Name</th>
             <th>Last Name</th>
             <th>Specialty</th>
